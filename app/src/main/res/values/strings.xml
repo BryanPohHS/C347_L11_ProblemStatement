@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">C347_L11_ProblemStatement</string>
+
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+    <string name="hello_blank_fragment">hello_blank_fragment</string>
+</resources>
